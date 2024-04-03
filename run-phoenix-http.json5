@@ -23,13 +23,13 @@
         {
             name: 'term.http',
             pwd: './dist',
-            command: 'npx http-server -p 8082',
+            command: 'npx http-server -p 8082 -c-1',
         },
         {
             name: 'shell.http',
             pwd: '../phoenix/dist',
             // command: 'npx http-server -p 8080 -S -C "{cert}" -K "{key}"',
-            command: 'npx http-server -p 8080',
+            command: 'npx http-server -p 8080 -c-1',
         },
     ],
 }
