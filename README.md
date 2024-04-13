@@ -1,3 +1,9 @@
+# Important notice
+
+Puter's terminal has moved. [Click here to see what's new!](https://github.com/HeyPuter/puter)
+
+<hr />
+
 <h3 align="center"><img width="150" alt="HiTIDE logo" src="./doc/logo.png"></h3>
 <h3 align="center">Puter Terminal Emulator</h3>
 <p align="center">
